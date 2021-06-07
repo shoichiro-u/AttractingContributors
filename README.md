@@ -25,3 +25,4 @@ Please write your favorite sports.
 * basketball
 * table tennis
 * Ekiden
+* bowling
