@@ -24,4 +24,5 @@ Please write your favorite sports.
 * Volleyball
 * basketball
 * table tennis
+* Ekiden
 * bowling
