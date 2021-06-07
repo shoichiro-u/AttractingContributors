@@ -22,3 +22,5 @@ Please write your favorite sports.
 * swimming
 * tennis
 * Volleyball
+* basketball
+* table tennis
