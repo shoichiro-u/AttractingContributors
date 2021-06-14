@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite food.
 7. Bread
 8. yakiniku
 9. soba
+10. kitsune soba
