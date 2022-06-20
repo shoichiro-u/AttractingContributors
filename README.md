@@ -10,3 +10,4 @@
  - 真夏の方程式(Midsummer's Equation)
  - The Godfather Part II
  - Doraemon: Nobita's Treasure Island (映画ドラえもん のび太の宝島) 
+ - The Shawshank Redemption
