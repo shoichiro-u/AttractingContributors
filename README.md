@@ -1,5 +1,5 @@
 # Disney Movie is GOD
-Everyone loves Disney movies　right? I especially like Remember Me（Coco）.
+Everyone loves Disney movies right? I especially like Remember Me（Coco）.
 Of course Disney movies include the Avengers series and the Star Wars series!
 Thank you for coming! :)
 
@@ -15,4 +15,4 @@ Thank you for coming! :)
 
 5.Ratatouille
 
-6. Snow White and the Seven Dwarfs
+6.Snow White and the Seven Dwarfs
