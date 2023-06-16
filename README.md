@@ -30,7 +30,7 @@ This is my favorite soccer team:
 Manchester City FC
 FC Barcelona
 
-3.
+3.Sanfrecce Hiroshima
 
 4.
 
