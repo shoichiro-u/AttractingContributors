@@ -2,7 +2,7 @@
 please tell me your favorite sports team
 please write it down
 
-# List of Movies
+# List of team
 ## Example
 1.  Nuggets , NBA
 2.  Carp , baseball
