@@ -21,8 +21,9 @@ https://github.com/ALORAMFER/AttractingContributors-SoccerTeams (Soccer Teams to
 Goal - I want contributors to help me list some Soccer Teams
 
 This is my favorite soccer team:
+
 0. Arsenal
 
 # Discussion 
-
+[#886](https://github.com/NAIST-SE/AttractingContributors/discussions/886)
 # List of Soccer Teams
