@@ -29,3 +29,19 @@ This is my favorite soccer team:
 # List of Soccer Teams
 Manchester City FC
 FC Barcelona
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
