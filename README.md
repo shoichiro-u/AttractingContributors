@@ -36,3 +36,5 @@ Please tell us your favorite ice cream
 * BLUE SEAL
 
 * GARIGARIKUN
+
+* Moo(vanilla)
