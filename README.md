@@ -28,3 +28,4 @@ Please write your favorite sports.
 * Ekiden
 * bowling
 * frontenis
+* baseball
