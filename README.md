@@ -12,3 +12,4 @@ please write it down
 3. BRAVE BlOSSOMS
 4. PSG
 5. Nara Dreamers, volleyball
+6. T1 (League of Legends) 
