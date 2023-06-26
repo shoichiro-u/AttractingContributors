@@ -11,8 +11,10 @@ please write it down
 2. Arsenal, premier league
 3. BRAVE BlOSSOMS
 4. PSG
-5. Nara Dreamers, volleyball
-6. T1 (League of Legends)
-7. FC Imabari
-8. Mancester United
+5. Panthers, volleyball
+6. Nara Dreamers, volleyball
+7. T1 (League of Legends)
+8. FC Imabari
+9. Mancester United
+
 
