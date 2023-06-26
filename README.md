@@ -12,3 +12,8 @@ please write it down
 3. BRAVE BlOSSOMS
 4. PSG
 5. AC Milan
+6. Panthers, volleyball
+7. Nara Dreamers, volleyball
+8. T1 (League of Legends)
+9. FC Imabari
+10. Mancester United
